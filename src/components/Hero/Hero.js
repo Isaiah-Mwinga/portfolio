@@ -12,7 +12,7 @@ const Hero = (props) => (
           Hey there,
         </SectionTitle>
         <SectionText>
-          Hey there, This is Vipul Jha aka lordarcadius. I am an Android & Flutter developer who also works on ROMs, Kernels, & Scripts.
+          Hey there, This is Isaya Mwinga. I am web developer and an Aspiring data scientist who has passionate about learning and working.
         </SectionText>
         <Button onClick={(e) => {
           e.preventDefault();
